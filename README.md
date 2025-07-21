@@ -19,7 +19,7 @@ This tool calculates the reverse complement of DNA sequences, which is essential
 ## 🚀 Usage
 
 ```bash
-python3 question2.py
+python3 reverse-complement.py
 ```
 
 ### Interactive Mode:
